@@ -8,9 +8,11 @@ The files can be grouped as follows:
 1) EMPIRICAL DATA
 * BHrepr.mat - probability of ice layer occurence derived from video surveys in multiple boreholes. For details see [Marchenko S, Pohjola VA, Pettersson R, van Pelt WJJ, Vega CP, Machguth H, Bøggild CE and Isaksson E (2017) A plot-scale study of firn stratigraphy at lomonosovfonna, Svalbard, using ice cores, borehole video and gpr surveys in 2012/14. Journal of Glaciology, 63(237), 67-78 (doi: 10.1017/jog.2016.118)];
 
-* LF_Temp.mat - subsurface temperature data from Lomonosovfonna, also available at [Marchenko S, Pohjola VA and Pettersson R (2019) Subsurface temperature at Lomonosovfonna, Svalbard, April 2012-2016 (doi: 10.1594/PANGAEA.902613)];
-
 * rho.mat - subsurface density data from Lomonosovfonna, also available at [Marchenko S, Pohjola VA, Pettersson R, van Pelt W, Vega CP and Isaksson E (2019) Density and stratigraphy of firn at Lomonosovfonna derived from shallow cores in 1997-2015 (doi: 10.1594/PANGAEA.902221)];
+
+* LF_Temp.mat - subsurface temperature data from Lomonosovfonna needed for calculations. Data has to be downloaded from [Marchenko S, Pohjola VA and Pettersson R (2019) Subsurface temperature at Lomonosovfonna, Svalbard, April 2012-2016 (doi: 10.1594/PANGAEA.902613)];
+
+
 
 2) CALCULATED DATASETS
 * invK8rho8_gamma10_maskedBC_longP.mat - optimized subsurface density and effective thermal conductivity for Lomonosovfonna. For details see [Marchenko S, Cheng G, Lötstedt P, Pohjola V, Pettersson R, van Pelt W and Reijmer C (2019) Thermal conductivity of firn at Lomonosovfonna, Svalbard, derived from subsurface temperature measurements. The Cryosphere, 13(7), 1843-1859 (doi: 10.5194/tc-13-1843-2019)];
